@@ -1,0 +1,8 @@
+# colcon / ROS2 build artefacts
+/build/
+/install/
+/log/
+
+# Nix
+result
+result-*
